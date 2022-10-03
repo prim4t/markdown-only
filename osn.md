@@ -1,17 +1,4 @@
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <base target="_blank">
-  <meta name="description" content="A Shared P2P Internet" />
-  <title>Open Shared Network</title> 
-  <meta property="og:image" content="NETWORK.png"/>
-  <meta property="og:title" content="Open Shared Network"/>
-  <meta property="og:site_name" content="openshared.network"/>
-  <meta property="og:description" content="A Shared P2P Internet" />
-  <meta name="viewport" content="width=device-width">
-
-  
   <style type="text/css">
     
  :root {
@@ -57,7 +44,7 @@ body
 	padding-right:10px;
         margin: auto;
         margin-top: 0px;
-        max-width: 25em;
+
   	text-shadow: 1px 1px 0px  var(--color4);
 }
 
